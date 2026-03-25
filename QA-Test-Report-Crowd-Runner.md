@@ -33,8 +33,7 @@ Testing focuses on unit behavior, gate calculations, collision outcomes, and sys
 | --- | --- | --- | --- | --- |
 | Unit overlap at high count | 1. Grow large crowd | Units maintain spacing | Units overlap or clip | Medium |
 | Incorrect gate calculation | 1. Pass multiple gates quickly | Correct unit calculation | Wrong unit count displayed | High |
-| Jump pad make unit fall on each other | 1. Stack a large crowd
-2. Step on Jump pad | All unit landed and stand on the ground correctly | Some Unit will stand on top of each other when landing | Low |
+| Jump pad make unit fall on each other | 1. Stack a large crowd<br>2. Step on Jump pad | All units land and stand on the ground correctly | Some units stand on top of each other when landing | Low |
 
 ---
 
