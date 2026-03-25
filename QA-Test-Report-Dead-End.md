@@ -33,10 +33,8 @@ Testing focuses on core gameplay systems including player interaction, kill mech
 
 | Title | Steps | Expected | Actual | Severity |
 | --- | --- | --- | --- | --- |
-| Movement stuck at
-sewage area |   1. Go down the drainage in the middle of the map | Can jump back normally | Sometimes get stuck in the drainage and require jumping repeatedly at the right angle to escape | Low |
-| Player stuck at doorstep |   1. Move to any house 
-  2. Open door | Door open normally | Door collider push player back and sometimes get stuck at balcony  | Medium |
+| Movement stuck at sewage area | 1. Go down the drainage in the middle of the map | Can jump back normally | Sometimes get stuck in the drainage and require jumping repeatedly at the right angle to escape | Low |
+| Player stuck at doorstep | 1. Move to any house<br>2. Open door | Door opens normally | Door collider pushes player back and sometimes causes player to get stuck at balcony | Medium |
 
 ---
 
