@@ -12,9 +12,11 @@ https://kraiffa.itch.io
 - [Stack Cube](./stack-cube.md)
 - [Hole.io Clone](./hole-io.md)
 - [Crowd Runner](./crowd-runner.md)
+- [Stack Ball Clone](./stack-ball.md)
 - [Dead End](./dead-end.md)
 - [Abandoned Woods](./abandoned-woods.md)
 - [New Year Special](./new-year.md)
+
 
 ---
 
