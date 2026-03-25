@@ -27,13 +27,10 @@ Testing focuses on gameplay systems, enemy behavior, item collection, and win/lo
 
 | Title | Steps | Expected | Actual | Severity |
 | --- | --- | --- | --- | --- |
-| Player not dying on contact | 1. Let monster approach 
-2. Stand still 
-3. Get touched | Player dies immediately | Player sometimes survives collision | High |
-| Inconsistence Skull Interaction | 1. Collect skull  | Skull Collected | Sometimes UI don’t appear when object with Player tag approach | Medium |
-| Lagging on first contact |   1. Approach skulls’ collider | UI “[E]” appear, no lagging. | Screen freeze for 1-2 second | Medium |
-| Monster Stuck |   1. Take the flashlight and trigger monster
-  2. Go near tree object while still in monster’s sight | Monster avoid trees and keep chasing player | Monster keep chasing player through tree objects and get stuck | High |
+| Player not dying on contact | 1. Let monster approach<br>2. Stand still<br>3. Get touched | Player dies immediately | Player sometimes survives collision | High |
+| Inconsistent Skull Interaction | 1. Move near skull<br>2. Observe UI prompt | “[E]” appears reliably | UI sometimes does not appear | Medium |
+| Lag on first interaction | 1. Approach skull collider | No lag, UI appears instantly | Screen freezes 1–2 seconds | Medium |
+| Monster stuck on obstacles | 1. Trigger monster<br>2. Move near tree while looking at monster | Monster navigates around obstacle | Monster clips or gets stuck in tree | High |
 
 ---
 
