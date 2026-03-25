@@ -32,12 +32,9 @@ Testing focuses on consumption logic, size progression, collision accuracy, obje
 | Title | Steps | Expected | Actual | Severity |
 | --- | --- | --- | --- | --- |
 | Object not consumed | 1. Move over small object cluster | All objects consumed | Some objects remain | Medium |
-| Object Visually Bugged when consumed
-on grass platform | 1. Consume object in grass platform
- | Objects fall through the hole and consumed | Objects fall off the ground instead of falling into the hole | High |
+| Object visually bugged when consumed on grass platform | 1. Consume object in grass platform | Objects fall through the hole and get consumed | Objects fall off the ground instead of falling into the hole | High |
 | Collision inconsistency | 1. Move across object edge | Object consumed correctly | Missed or delayed consumption | Medium |
-| Big Object Fall off the ground | 1. Move to an object that is bigger than the hole
-2. Move the hole away immediately |  Object standing still and nothing happen | Object bump up a second and fall off the ground | High |
+| Big object falls off the ground | 1. Move to an object that is bigger than the hole<br>2. Move the hole away immediately | Object stays still, no interaction | Object bumps up briefly then falls off the ground | High |
 
 ---
 
