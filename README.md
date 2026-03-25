@@ -9,13 +9,13 @@ https://kraiffa.itch.io
 
 ## 📂 Projects
 
-- [Stack Cube](./stack-cube.md)
-- [Hole.io Clone](./hole-io.md)
-- [Crowd Runner](./crowd-runner.md)
-- [Stack Ball Clone](./stack-ball.md)
-- [Dead End](./dead-end.md)
-- [Abandoned Woods](./abandoned-woods.md)
-- [New Year Special](./new-year.md)
+- [Stack Cube](./QA-Test-Report-Stack-Cube.md)
+- [Stack Ball Clone](./QA-Test-Report-Stack-Ball.md)
+- [Hole.io Clone](./QA-Test-Report-Hole-IO.md)
+- [Crowd Runner](./QA-Test-Report-Crowd-Runner.md)
+- [Dead End](./QA-Test-Report-Dead-End.md)
+- [Abandoned Woods](./QA-Test-Report-Abandoned-Woods.md)
+- [New Year Special](./QA-Test-Report-New-year’s-Special.md)
 
 
 ---
